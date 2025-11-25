@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-blue?style=for-the-badge&logo=keras)
-![scikit-learn](https://img.shields.io-badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ## 🎥 Demo Video  
 [![Watch the demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-red?style=for-the-badge&logo=youtube)](https://youtu.be/0QEFfEm3eLA)
